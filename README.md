@@ -1,8 +1,6 @@
 # first_test_repo
 Test repo created during Data Carpentry workshop for github and version control
 
-Here's a funny python joke: 
+Horse walks into a bar and bartender asks, "Why the long face?"
 
-# creates H1 level header
-
-* creates bullet pointed list
+**shrug**
